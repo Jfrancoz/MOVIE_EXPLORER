@@ -1,4 +1,7 @@
- Movie Explorer
+
+📌 README.md (English Version)
+
+# 🎬 Movie Explorer
 
 **Movie Explorer** is a simple and interactive movie search application built with **React, Tailwind CSS, and the OMDB API**.  
 It allows users to **search movies by title, filter by year and type**, and provides an elegant user interface.
@@ -18,7 +21,6 @@ It allows users to **search movies by title, filter by year and type**, and prov
 - **OMDB API** 📡  
 - **JavaScript (ES6+)**  
 
-_A preview of the application in action:_  
 
 
 
@@ -28,3 +30,21 @@ _A preview of the application in action:_
 
 ```sh
 git clone https://github.com/YOUR-USERNAME/movie-explorer.git
+
+2️⃣ Navigate to the project folder:
+
+cd movie-explorer
+
+3️⃣ Install dependencies:
+
+npm install
+
+4️⃣ Start the development server:
+
+npm run dev
+
+5️⃣ Open your browser and go to:
+
+http://localhost:5173
+
+thanks!👏
