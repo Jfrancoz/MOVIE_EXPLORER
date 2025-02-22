@@ -1,8 +1,30 @@
-# React + Vite
+ Movie Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Movie Explorer** is a simple and interactive movie search application built with **React, Tailwind CSS, and the OMDB API**.  
+It allows users to **search movies by title, filter by year and type**, and provides an elegant user interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Search for movies dynamically  
+✅ Filter results by **year** and **type** (Movie, Series, Episode)  
+✅ Responsive **grid layout** that adjusts to different screen sizes  
+✅ Modern **UI with Tailwind CSS**  
+✅ Hover effects and animations for a smooth experience  
+
+## 🛠 Technologies Used
+
+- **React + Vite** ⚛️  
+- **Tailwind CSS** 🎨  
+- **OMDB API** 📡  
+- **JavaScript (ES6+)**  
+
+_A preview of the application in action:_  
+
+
+
+## 📦 Installation & Usage
+
+1️⃣ Clone the repository:
+
+```sh
+git clone https://github.com/YOUR-USERNAME/movie-explorer.git
